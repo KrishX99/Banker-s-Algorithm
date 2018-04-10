@@ -7,4 +7,4 @@ leaves the system in a safe state. It is important that shared data be safe from
 access. To ensure safe access to shared data, you can use mutex locks.
 
 How to run the file:
-After doownloading the file; compile using "gcc BankersAlgo.c -pthread" and run using "./a.out 7 7 7" where the following no. are resource vector. 
+After downloading the file; compile using "gcc BankersAlgo.c -pthread" and run using "./a.out 7 7 7" where the following no. are used to initialize resource vector. 
